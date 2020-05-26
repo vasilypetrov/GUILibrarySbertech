@@ -1,2 +1,2 @@
 # GUILibrarySbertech
-one file of my code of GUI library from Sbertech
+example of my code in GUI library from Sbertech
